@@ -1,13 +1,13 @@
 {
   "name": "MacroPulse - Makro Tracker",
   "short_name": "MacroPulse",
-  "start_url": "/makro-testssst-neu/",
+  "start_url": "/makro-tessssst-neu/",
   "display": "standalone",
   "background_color": "#0b1329",
   "theme_color": "#0b1329",
   "icons": [
     {
-      "src": "/makro-testssst-neu/logo.png",
+      "src": "/makro-tessssst-neu/logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
